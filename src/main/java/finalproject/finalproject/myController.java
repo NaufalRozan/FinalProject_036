@@ -18,8 +18,9 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  *
  * @author rozan
+ * NIM 20200140036
  */
-@RestController
+@RestController 
 @CrossOrigin
 public class myController {
     
